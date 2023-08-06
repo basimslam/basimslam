@@ -30,4 +30,4 @@ I am an engineering student starting his journey here. I am a bit late to the ga
 
 #
 
-[![Basim's GitHub stats](https://github-readme-stats.vercel.app/api?username=basimslam&theme = gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=basimslam&theme = gotham)](https://github.com/anuraghazra/github-readme-stats)
