@@ -4,8 +4,8 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Getting+Better+Everyday;Always+Learning&font=Fira%20Code&center=true&width=440&height=45&color=54A68B&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-Basim Aslam <a href = "https://leetcode.com/basimaslam/"><img align="left" alt = "Leetcode" width = "20px" style = "padding-left:10px;" src = "https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png"/><a/>
-
+<span><h3> Basim Aslam<a href = "https://leetcode.com/basimaslam/"><img align = "center" alt = "Leetcode" width = "22px" style = "padding-left:15px;" src = "https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png"/><a/></h3></span>
+-
 **`Aspiring Engineer`**
 
 I am an engineering student passionate about coding and technology. Currently studying at College of Engineering, Chengannur. I am a bit late to the game but hoping to start my learning journey here. I love making new ideas and prototypes. Machine Learning Enthusiast. Click on my badge to see my Leetcode Profile. Follow me here for my Journey
