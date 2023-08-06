@@ -1,14 +1,14 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Getting+Better+Everyday;Always+Learning&font=Fira%20Code&center=true&width=440&height=45&color=4078c0&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Getting+Better+Everyday;Always+Learning&font=Fira%20Code&center=true&width=440&height=45&color=54A68B&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-# Basim Aslam
+Basim Aslam <a href = "https://leetcode.com/basimaslam/"><img align="left" alt = "Leetcode" width = "20px" style = "padding-left:10px;" src = "https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png"/><a/>
 
 **`Aspiring Engineer`**
 
-I am an engineering student starting his journey here. I am a bit late to the game but hoping to start my learning journey here. I love making new ideas and prototypes. Machine Learning Enthusiast. See my journey here !
+I am an engineering student passionate about coding and technology. Currently studying at College of Engineering, Chengannur. I am a bit late to the game but hoping to start my learning journey here. I love making new ideas and prototypes. Machine Learning Enthusiast. Click on my badge to see my Leetcode Profile. Follow me here for my Journey
 
 ---
 ###  Technical Stack
@@ -27,7 +27,11 @@ I am an engineering student starting his journey here. I am a bit late to the ga
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br/>
+<br/>
+<br/>
 
-#
+![Basim's GitHub stats](https://github-readme-stats.vercel.app/api?username=basimslam&theme=gotham)
 
-[![Basim's GitHub stats](https://github-readme-stats.vercel.app/api?username=basimslam&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
