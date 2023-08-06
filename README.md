@@ -1,14 +1,14 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Getting+Better+Everyday!;Always+Learning&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Getting+Better+Everyday;Always+Learning&font=Fira%20Code&center=true&width=440&height=45&color=4078c0&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 # Basim Aslam
 
 **`Aspiring Engineer`**
 
-I'm an engineering student passionate about technology. I was a bit late to the game, but trying to catch up. I'm learning new technologies everyday and you'll be able to see my journey here. Hopefully I make it one day and you'll know how it all started 
+I am an engineering student starting his journey here. I am a bit late to the game but hoping to start my learning journey here. I love making new ideas and prototypes. Machine Learning Enthusiast. See my journey here !
 
 ---
 ###  Technical Stack
@@ -30,3 +30,4 @@ I'm an engineering student passionate about technology. I was a bit late to the 
 
 #
 
+[![Basim's GitHub stats](https://github-readme-stats.vercel.app/api?username=basimslam&theme = gotham)](https://github.com/anuraghazra/github-readme-stats)
